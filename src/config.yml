@@ -1,0 +1,28 @@
+core_not_permission: '&cBrak uprawnien'
+core_gui_title: '&7&l>> &aSklep'
+core_player_not_price: '&cNie masz wystarczajaco pieniedzy! Potrzebujesz &c%need%$'
+core_player_buy: '&a&lPomyslnie zakupiono przedmiot &c%item%'
+shop_emerald_block_cost: 50
+shop_string_cost: 25
+shop_coal_block_cost: 25
+shop_diamond_block_coast: 20
+shop_gold_block_cost: 20
+shop_lapis_lazuli_cost: 30
+shop_redstone_cost: 15
+shop_bone_cost: 5
+shop_oak_planks_cost: 5
+shop_arrow_cost: 10
+shop_slime_ball_cost: 5
+shop_tnt_cost: 200
+shop_apple_cost: 10
+shop_ender_pearl_cost: 15
+shop_bookshelf_cost: 25
+shop_obsidian_cost: 20
+reload: '&aPomyslnie przeladowano plugin'
+
+dont_have_minimum_item: '&cNie masz przynajmniej x32 %item%'
+sell_item: '&aPomyslnie sprzedano x32 %item%'
+
+ITEM_LORE:
+  - Klikni LPM aby kupic
+  - Klikni RPM aby sprzedac

@@ -1,0 +1,8 @@
+name: xLonxShopGUI
+version: 1.0
+main: pl.testhc.main.Main
+author: xLonx
+api-version: 1.20
+commands:
+  sklep:
+  sklepReload:
